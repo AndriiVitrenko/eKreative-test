@@ -1,0 +1,13 @@
+.log-in {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  flex-wrap: wrap;
+
+  .google {
+    transition: all 0.3s ease-in-out;
+    margin-bottom: 2rem;
+  }
+}
